@@ -27,6 +27,7 @@
 
 * JavaScript
 * Phaser
+* MatterJS
 
 
 ## Running on Local
@@ -34,7 +35,7 @@
 To run these games on your local you need local web server on your computer. If you double-click to index.html it will probably open with errors.
 
 ## Resources
-Graphics: hhttps://kenney.nl/assets/physics-assets
+Graphics: https://kenney.nl/assets/physics-assets
 
 
 
